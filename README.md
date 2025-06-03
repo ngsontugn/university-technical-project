@@ -9,7 +9,7 @@
 
 ## 📌 Giới thiệu
 
-Đây là repository tổng hợp các đồ án kỹ thuật và chuyên đề đã thực hiện trong quá trình học đại học, thuộc các học phần: phân tích hệ thống, cơ sở dữ liệu, kiến trúc doanh nghiệp, ERP, thương mại điện tử... Mỗi nhánh (branch) hoặc thư mục đại diện cho một **kỹ năng chuyên biệt**, được trình bày như một dự án độc lập nhằm thể hiện quá trình học hỏi, tư duy hệ thống và khả năng giải quyết vấn đề thực tế.
+Đây là repository tổng hợp các đồ án kỹ thuật và chuyên đề đã thực hiện trong quá trình học đại học, thuộc các học phần: Ứng dụng cơ sở dữ liệu, kiến trúc doanh nghiệp, ERP, thương mại điện tử... Mỗi nhánh (branch) hoặc thư mục đại diện cho một **kỹ năng chuyên biệt**, được trình bày như một dự án độc lập nhằm thể hiện quá trình học hỏi, tư duy hệ thống và khả năng giải quyết vấn đề thực tế.
 
 ---
 
