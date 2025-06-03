@@ -1,7 +1,7 @@
 # 🎓 University Technical Project
 
 > 👤 **Nguyễn Sơn Tùng**  
-> 📧 Email: ngsontugn@gmail.com  
+> 📧 Email: sontungnguyen894@gmail.com
 > 🌐 LinkedIn: [linkedin.com/in/ngsontugn](https://linkedin.com/in/ngsontugn)  
 > 🏫 Trường Đại học Kinh tế Quốc dân — Khoa Hệ thống Thông tin Quản lý  
 
